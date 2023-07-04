@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arth",
+      "email": "arth@gmail.com",
+      "phone": "9638812121",
+      "address": "india"
+    },
+    {
+      "name": "solulab Arth",
+      "email": "solab@gmail.com",
+      "phone": "1234567890",
+      "address": "india",
+      "id": 2
+    },
+    {
+      "name": "abhishek sir",
+      "email": "arpit.patel@solulab.com",
+      "phone": "1234567890",
+      "address": "sas",
+      "id": 3
+    }
+  ]
+}
