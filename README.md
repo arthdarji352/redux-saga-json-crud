@@ -2,12 +2,12 @@ this is crud app using react,redux-saga and json server
 
 if you want to run this app in your local then you should start json server also using this command
 
-/* json-server --port 5000 */
+# json-server --port 5000
 
 
 
 
-# Getting Started with Create React App
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
